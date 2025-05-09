@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "nero_lyl.com"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "nero_lyl.com"
